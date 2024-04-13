@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\Testy\Iteratory\Iteratory\bin\Debug\Iteratory.exe.config
+C:\Users\PC\Desktop\Testy\Iteratory\Iteratory\bin\Debug\Iteratory.exe
+C:\Users\PC\Desktop\Testy\Iteratory\Iteratory\bin\Debug\Iteratory.pdb
+C:\Users\PC\Desktop\Testy\Iteratory\Iteratory\obj\Debug\Iteratory.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Testy\Iteratory\Iteratory\obj\Debug\Iteratory.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Testy\Iteratory\Iteratory\obj\Debug\Iteratory.exe
+C:\Users\PC\Desktop\Testy\Iteratory\Iteratory\obj\Debug\Iteratory.pdb
